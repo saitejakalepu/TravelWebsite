@@ -1,0 +1,13 @@
+.scroller {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+.scroller::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.scroller {
+  overflow: scroll;
+  height: 640px; /* Make this site really long */
+  width: 1000px; /* Make this site really wide */
+}
