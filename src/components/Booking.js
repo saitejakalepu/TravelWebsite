@@ -91,26 +91,10 @@ let JourneyDate= `${Selecteddate}${separator}${month<10?`0${month}`:`${month}`}$
           onClick={handleClick}
           />
           </ul>
-          <ul  className='cards__items'>
-          <ImageCard
-          src={Bali}
-          name="Bali"
-          path="/details"
-          onClick={handleClick}
-          />         
-          <ImageCard
-          src={Goa}
-          name="Goa"
-          path="/details"
-          onClick={handleClick}
-          />
-          <ImageCard
-          src={Maldives}
-          name="Maldives"
-          path="/details"
-          onClick={handleClick}
-          />  
-          </ul>
+
+
+
+       
         </div>
       </div>
        </div>
