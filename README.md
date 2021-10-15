@@ -1,8 +1,8 @@
 # TravelWebsite
 
-## Live Link: https://travel-website-development.web.app/home
+## Go a head and book your holiday packages here : https://travel-website-development.web.app/home
 
-<li>Travel Website is an user friendly web application designed using 
+## Travel Website is an user friendly web application designed using :
   <li>React JS</li>
   <li>React Context</li>
   <li>React Router</li>
