@@ -31,6 +31,6 @@ https://travel-website-development.web.app/home
 
 ### Use the below card details for successfull booking
 
-![credit-card-info](https://user-images.githubusercontent.com/69914580/137534840-3a5a4325-fced-420d-bb51-5a8fe2b3a40d.JPG)
 
-<img src="https://user-images.githubusercontent.com/69914580/137534840-3a5a4325-fced-420d-bb51-5a8fe2b3a40d.JPG" width="80%" height="80%"/>
+
+<img src="https://user-images.githubusercontent.com/69914580/137534840-3a5a4325-fced-420d-bb51-5a8fe2b3a40d.JPG" width="50%" height="50%"/>
