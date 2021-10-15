@@ -13,7 +13,7 @@ https://travel-website-development.web.app/home
  </ul>
  
 
-### Travel Website is an user friendly web application designed using :
+### Tech involved:
 <ul>
   <li>React JS</li>
   <li>React Context</li>
