@@ -1,4 +1,4 @@
-# TravelWebsite
+# Travel Website with real time Authentication
 
 ## Go a head and book your holiday packages here : <br/>
 https://travel-website-development.web.app/home
