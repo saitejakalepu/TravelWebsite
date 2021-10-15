@@ -1,5 +1,4 @@
-# Travel Website with real time Authentication
-
+# Travel Website in React
 ## Go a head and book your holiday packages here : <br/>
 https://travel-website-development.web.app/home
 
