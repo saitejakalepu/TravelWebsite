@@ -3,7 +3,7 @@
 https://travel-website-development.web.app/home
 
 
-## Features:
+# Features:
 <ul>
   <li>Real time authentication</li>
   <li>User friendly UI</li>
