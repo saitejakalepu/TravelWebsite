@@ -1,6 +1,7 @@
 # TravelWebsite
 
-## Go a head and book your holiday packages here : https://travel-website-development.web.app/home
+## Go a head and book your holiday packages here : <br/>
+https://travel-website-development.web.app/home
 
 ## Travel Website is an user friendly web application designed using :
   <li>React JS</li>
