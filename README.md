@@ -1,5 +1,5 @@
 # Travel Website in React
-## Go a head and book your holiday packages here : <br/>
+### Go a head and book your holiday packages here : <br/>
 https://travel-website-development.web.app/home
 
 
@@ -13,7 +13,7 @@ https://travel-website-development.web.app/home
  </ul>
  
 
-## Travel Website is an user friendly web application designed using :
+### Travel Website is an user friendly web application designed using :
 <ul>
   <li>React JS</li>
   <li>React Context</li>
