@@ -2,6 +2,17 @@
 ## Go a head and book your holiday packages here : <br/>
 https://travel-website-development.web.app/home
 
+
+## Features:
+<ul>
+  <li>Real time authentication</li>
+  <li>User friendly UI</li>
+   <li>Mobile, tablet and web responsive design</li>
+  <li>Subscription to News letter</li>
+  <li>User feedback</li>
+ </ul>
+ 
+
 ## Travel Website is an user friendly web application designed using :
 <ul>
   <li>React JS</li>
