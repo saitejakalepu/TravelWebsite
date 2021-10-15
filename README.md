@@ -29,3 +29,6 @@ https://travel-website-development.web.app/home
 <li>User can subscribe at news letter as well as send feedback.</li>
 <li>User can book for a holiday package on selected dates and proceed to check out with credit/debit card details.</li>
 
+### Use the below card details for successfull booking
+
+![credit-card-info](https://user-images.githubusercontent.com/69914580/137534840-3a5a4325-fced-420d-bb51-5a8fe2b3a40d.JPG)
