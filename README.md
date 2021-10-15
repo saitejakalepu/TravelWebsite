@@ -29,7 +29,7 @@ https://travel-website-development.web.app/home
 <li>User can subscribe at news letter as well as send feedback.</li>
 <li>User can book for a holiday package on selected dates and proceed to check out with credit/debit card details.</li>
 
-### Use the below card details for successfull booking
+### Use the below test card details for successfull booking
 
 
 
