@@ -52,9 +52,9 @@ const[image,setImage]=React.useState();
                 {new Date(changedFormat) > today &&
                     <Button className="w-40" onClick={props.onClick}>Cancel Booking</Button>
                 }
-                {new Date(changedFormat) < today &&
-                    <Button className="w-40" disabled onClick={props.onClick}>Cancel Booking</Button>
-                }
+                {/* {new Date(changedFormat) < today &&
+                    <Button className="w-40" disabled onClick={props.onClick}> </Button>
+                } */}
             
             <h5>Package Booked On : {props.BookedOn}</h5>
             </div>

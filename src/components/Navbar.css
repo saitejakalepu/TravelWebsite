@@ -24,13 +24,14 @@
   margin-left: 20px;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.6rem;
   display: flex;
   align-items: center;
 }
 
-.navbar-logo:hover {
+.navbar-logo label:hover {
   text-decoration: none;
+  cursor: pointer;
 }
 
 .fa-typo3 {

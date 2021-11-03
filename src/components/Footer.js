@@ -160,11 +160,12 @@ function sendEmail(e) {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
-              <i class='fab fa-typo3' />
+              <label> Holiday Planner</label>
+              
+            <i class="fas fa-plane-departure"></i>
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>Holiday Planners © 2020</small>
           <div class='social-icons'>
            
             <a href="https://www.facebook.com/"

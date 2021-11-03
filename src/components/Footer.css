@@ -120,15 +120,29 @@
 }
 
 .social-logo {
-  color: #fff;
   justify-self: start;
   margin-left: 20px;
-  cursor: pointer;
-  text-decoration: none;
-  font-size: 2rem;
   display: flex;
   align-items: center;
   margin-bottom: 16px;
+}
+
+.social-logo label {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+.social-logo i {
+  margin-left: 6px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.social-logo label:hover {
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .website-rights {

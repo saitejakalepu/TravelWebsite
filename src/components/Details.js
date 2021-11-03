@@ -3,7 +3,8 @@ import { useAuth } from "../contexts/AuthContext"
 import { Link, Redirect} from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.css";
 import firebase from '../firebase';
-import { Form, Button, Card ,Col} from "react-bootstrap"
+import { Form, Button, Card ,Col} from "react-bootstrap";
+import './Details.css'
 
 export default function Details() {
 
@@ -109,14 +110,15 @@ export default function Details() {
     }
   }
   return (
-    <div style={{paddingTop :'100px', height:0}}>
+    
+    <div className="container">
       {navigate==="yes" &&
       <Redirect to='/payment' />
       }
       {navigate==="none" &&
-    <Card style={{width :'700px', marginLeft :'400px' , minHeight :'400px'}}>
+    <Card  className="card-item">
       <Card.Body>
-      <h5 className="text-center mb-4" style={{marginLeft:300, width :500}}>{destination} PACKAGE</h5>
+      <h5 className="text-center mb-4">{destination} PACKAGE</h5>
       <h2 >Provide your Details</h2>
       <Form onSubmit={handleSubmit}>
       <Form.Row className="align-items-center" style={{width : "600px", paddingLeft :"30px"}}>
@@ -220,7 +222,7 @@ export default function Details() {
 }
     
     </div>
-      
+    
   );
 };
 

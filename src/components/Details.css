@@ -1,0 +1,25 @@
+.container {
+  padding-top: 5%;
+}
+
+.card-item {
+  width: 50%;
+  margin-left: 25%;
+  min-height: 50%;
+}
+
+@media screen and (max-width: 1158px) {
+  .card-item {
+    width: 80%;
+    margin-left: 10%;
+    min-height: 50%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .card-item {
+    width: 90%;
+    margin-left: 10%;
+    min-height: 50%;
+  }
+}
